@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.9.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/YahooFinanceAPI-3.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
